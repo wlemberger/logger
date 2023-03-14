@@ -1,0 +1,19 @@
+{
+    "name": "wlemberger/logger",
+    "description": "A library to log data.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Wlemberger\\Logger\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Wolfgang Lemberger",
+            "email": "wlemberger@schueler.hakzell.at"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
